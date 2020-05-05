@@ -1,0 +1,15 @@
+The goal of this assignment is to demonstrate you are able to connect to various data sources and import into Tableau. You will create a final worksheet that includes screenshots of your work to show you were able to connect and import the data. A successful assignment will illustrate your ability to connect, merge, and import data to set yourself up to begin analyzing your data 
+
+Part 1: Using the SuperStore.xlsx data workbook, connect to the Orders data, and complete the data import process to begin analyzing your data. Then save the output to your Tableau Public profile as its own visualization and copy and paste the URL to a Word document. 
+
+Part 2: Using the SuperStore.xslx data workbook, connect to the Orders and Returns data sources, and complete the data import process to begin analyzing your data. Then save the output to your Tableau Public profile as its own visualization and copy and paste the URL to a Word document. 
+
+Part 3: Using the SuperStore.xslx data workbook, connect to and merge the Orders and Returns data sources using a common variable, and complete the data import process to begin analyzing your data. Then save the output to your Tableau Public profile as its own visualization and copy and paste the URL to a Word document. 
+
+ 
+Solutions :-
+Part 1 :- https://public.tableau.com/profile/shivum.uppal#!/vizhome/Assignemtn1/Sheet1?publish=yes
+
+Part 2 :- https://public.tableau.com/profile/shivum.uppal#!/vizhome/Assignemtn1/Sheet1?publish=yes
+
+Part 3 :- https://public.tableau.com/profile/shivum.uppal#!/vizhome/Assignment1Part2_15886636450460/Assignment1Part2?publish=yes
